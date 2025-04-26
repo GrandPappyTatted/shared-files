@@ -1,0 +1,219 @@
+{
+    "m_Version": 12,
+    "DisplayName": "SHOE",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "AthleticShoes_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AthleticShoes_Blue",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AthleticShoes_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AthleticShoes_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "AthleticShoes_Grey",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DressShoes_Beige",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DressShoes_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DressShoes_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DressShoes_Sunburst",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DressShoes_White",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JoggingShoes_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JoggingShoes_Blue",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JoggingShoes_Red",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JoggingShoes_Violet",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "JoggingShoes_White",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherShoes_Beige",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherShoes_Black",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherShoes_Brown",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "LeatherShoes_Natural",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

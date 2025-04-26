@@ -1,0 +1,47 @@
+{
+  "m_Version": 12,
+  "DisplayName": "300",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "GB_300",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GhilliebandBlack300",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "GhilliebandBlackWL300",
+        "GhilliebandBrown300",
+        "GhilliebandDigiBlue300",
+        "GhilliebandDigitalFlora300",
+        "GhilliebandFatigue300",
+        "GhilliebandFlora300",
+        "GhilliebandGrass300",
+        "GhilliebandGreen300",
+        "GhilliebandGrey300",
+        "GhilliebandKush300",
+        "GhilliebandSmoke300",
+        "GhilliebandSnow300",
+        "GhilliebandWL300",
+        "GhilliebandWhite300"
+      ]
+    }
+  ]
+}

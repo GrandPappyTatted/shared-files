@@ -1,0 +1,58 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_AL",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Altyn_Black",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Altyn_Blue",
+        "Paragon_Altyn_Desert",
+        "Paragon_Altyn_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Altyn_Black_WL",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_Altyn_Fatigue",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_Altyn_Navy",
+      "MaxPriceThreshold": 85000,
+      "MinPriceThreshold": 85000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

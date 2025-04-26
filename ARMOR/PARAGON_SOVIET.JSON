@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_SO",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_Soviet_Black",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_Black_WL",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_Blue",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_Desert",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_Fatigue",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_Green",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_Navy",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_WL",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Soviet_White",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

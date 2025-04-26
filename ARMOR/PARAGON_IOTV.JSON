@@ -1,0 +1,109 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_I",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_IOTV_Black",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_Black_WL",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_Blue",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_Desert",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_Fatigue",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_Green",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_Navy",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_WL",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_IOTV_White",
+            "MaxPriceThreshold": 75000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_TACTICALG",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_TacticalGloves_Black",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Black_WL",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Blue",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Desert",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Digital_Desert",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Digital_Flora",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Fatigue",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Green",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_Navy",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_WL",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_TacticalGloves_White",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

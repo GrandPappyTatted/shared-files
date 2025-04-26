@@ -1,0 +1,164 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_Y",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_Yeezys_350_Black",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_Blue",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_Cream",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_Green",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_Oreo",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_Red",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_Tan",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yeezys_350_White",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yzy_Slides_Black",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yzy_Slides_Blue",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yzy_Slides_LV",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yzy_Slides_Tan",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Yzy_Slides_White",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_AirMags",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 20000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_SLI",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Slick_Black",
+      "MaxPriceThreshold": 95000,
+      "MinPriceThreshold": 95000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Slick_Black_WL",
+        "Paragon_Slick_Blue",
+        "Paragon_Slick_Desert",
+        "Paragon_Slick_Fatigue",
+        "Paragon_Slick_Green",
+        "Paragon_Slick_Navy",
+        "Paragon_Slick_WL",
+        "Paragon_Slick_White"
+      ]
+    }
+  ]
+}

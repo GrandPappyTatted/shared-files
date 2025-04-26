@@ -1,0 +1,26 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_RA",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_RaidBag_Black",
+      "MaxPriceThreshold": 125000,
+      "MinPriceThreshold": 125000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_RaidBag_Blue",
+        "Paragon_RaidBag_Desert",
+        "Paragon_RaidBag_Green",
+        "Paragon_RaidBag_WL"
+      ]
+    }
+  ]
+}

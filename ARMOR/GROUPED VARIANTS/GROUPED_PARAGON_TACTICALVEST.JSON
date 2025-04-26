@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_TACTICALV",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_TacticalVest_Black",
+      "MaxPriceThreshold": 100000,
+      "MinPriceThreshold": 100000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacticalVest_Black_WL",
+        "Paragon_TacticalVest_Blue",
+        "Paragon_TacticalVest_Desert",
+        "Paragon_TacticalVest_Fatigue",
+        "Paragon_TacticalVest_Green",
+        "Paragon_TacticalVest_Navy",
+        "Paragon_TacticalVest_WL",
+        "Paragon_TacticalVest_White"
+      ]
+    }
+  ]
+}

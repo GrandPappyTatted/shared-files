@@ -1,0 +1,65 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_TACTICAL_",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_Tactical_Bag_Black",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Tactical_Bag_Blue",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Tactical_Bag_Green",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Tactical_Bag_Red",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Tactical_Bag_Tan",
+            "MaxPriceThreshold": 60000,
+            "MinPriceThreshold": 60000
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

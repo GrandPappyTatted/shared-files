@@ -1,0 +1,92 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_TACBOOTS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_TacBoots_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_TacBoots_Blue",
+        "Paragon_TacBoots_Desert",
+        "Paragon_TacBoots_Green",
+        "Paragon_TacBoots_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Black_WL",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Decimation",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Digital_Desert",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Digital_Flora",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Fatigue",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_TacBoots_Navy",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

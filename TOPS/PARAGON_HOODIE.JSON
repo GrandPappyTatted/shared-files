@@ -1,0 +1,263 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_HOO",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_Hoodie_Black",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Black_Nike",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Chrome",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Essentials",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Essentials_Cream",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Grey",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Grey_Nike",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_HellStar",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_HellStar_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_HellStar_Purple",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_HellStar_White",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Red",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Social",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Spider",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Supreme",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Supreme_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Supreme_Red",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Tears",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Tears_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_Tears_White",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_White",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Hoodie_White_Nike",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

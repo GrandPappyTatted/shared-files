@@ -1,0 +1,59 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_AR",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Armored_H_Black",
+      "MaxPriceThreshold": 70000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Armored_H_Blue",
+        "Paragon_Armored_H_Desert",
+        "Paragon_Armored_H_Green",
+        "Paragon_Armored_H_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Armored_H_Black_WL",
+      "MaxPriceThreshold": 70000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_Armored_H_Fatigue",
+      "MaxPriceThreshold": 70000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_Armored_H_Navy",
+      "MaxPriceThreshold": 70000,
+      "MinPriceThreshold": 70000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

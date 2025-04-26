@@ -1,0 +1,26 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_MANDI",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Mandible_Black",
+      "MaxPriceThreshold": 25000,
+      "MinPriceThreshold": 25000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Mandible_Blue",
+        "Paragon_Mandible_Desert",
+        "Paragon_Mandible_Desert_Camo",
+        "Paragon_Mandible_Green"
+      ]
+    }
+  ]
+}

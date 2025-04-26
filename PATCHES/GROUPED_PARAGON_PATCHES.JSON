@@ -1,0 +1,35 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_P",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Patch_USA",
+      "MaxPriceThreshold": 750,
+      "MinPriceThreshold": 750,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Patch_Austria",
+        "Paragon_Patch_Britain",
+        "Paragon_Patch_Canada",
+        "Paragon_Patch_China",
+        "Paragon_Patch_Dayz",
+        "Paragon_Patch_France",
+        "Paragon_Patch_Germany",
+        "Paragon_Patch_Israel",
+        "Paragon_Patch_Japan",
+        "Paragon_Patch_Poland",
+        "Paragon_Patch_Russian",
+		"Paragon_Patch_Australia",
+        "Paragon_Patch_Ukraine"
+      ]
+    }
+  ]
+}

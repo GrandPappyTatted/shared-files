@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_I",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_IOTV_Black",
+      "MaxPriceThreshold": 75000,
+      "MinPriceThreshold": 75000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_IOTV_Black_WL",
+        "Paragon_IOTV_Blue",
+        "Paragon_IOTV_Desert",
+        "Paragon_IOTV_Fatigue",
+        "Paragon_IOTV_Green",
+        "Paragon_IOTV_Navy",
+        "Paragon_IOTV_WL",
+        "Paragon_IOTV_White"
+      ]
+    }
+  ]
+}

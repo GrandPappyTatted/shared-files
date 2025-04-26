@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_DCS_",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_DCS_Black",
+      "MaxPriceThreshold": 40000,
+      "MinPriceThreshold": 40000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_DCS_Black_WL",
+        "Paragon_DCS_Blue",
+        "Paragon_DCS_Desert",
+        "Paragon_DCS_Fatigue",
+        "Paragon_DCS_Green",
+        "Paragon_DCS_Navy",
+        "Paragon_DCS_WL",
+        "Paragon_DCS_White"
+      ]
+    }
+  ]
+}

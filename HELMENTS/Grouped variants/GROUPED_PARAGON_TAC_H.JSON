@@ -1,0 +1,59 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_TAC_",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_Tac_H_Black",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_Tac_H_Blue",
+        "Paragon_Tac_H_Desert",
+        "Paragon_Tac_H_Green",
+        "Paragon_Tac_H_WL"
+      ]
+    },
+    {
+      "ClassName": "Paragon_Tac_H_Black_WL",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_Tac_H_Fatigue",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_Tac_H_Navy",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 20000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

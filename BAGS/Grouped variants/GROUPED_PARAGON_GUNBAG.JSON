@@ -1,0 +1,25 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_GUNB",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_GunBag_Black",
+      "MaxPriceThreshold": 90000,
+      "MinPriceThreshold": 90000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_GunBag_Blue",
+        "Paragon_GunBag_Desert",
+        "Paragon_GunBag_Green"
+      ]
+    }
+  ]
+}

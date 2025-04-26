@@ -1,0 +1,142 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_L",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_Leg_PouchesL_Black",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesL_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesL_Desert",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesL_Green",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesM_Black",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesM_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesM_Desert",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesM_Green",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesS_Black",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesS_Blue",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesS_Desert",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Leg_PouchesS_Green",
+            "MaxPriceThreshold": 3500,
+            "MinPriceThreshold": 3500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

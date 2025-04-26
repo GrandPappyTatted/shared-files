@@ -1,0 +1,33 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_C6B43",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_C6B43_Black",
+      "MaxPriceThreshold": 50000,
+      "MinPriceThreshold": 50000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_C6B43_Black_WL",
+        "Paragon_C6B43_Blue",
+        "Paragon_C6B43_Desert",
+        "Paragon_C6B43_Digital_Desert",
+        "Paragon_C6B43_Digital_Flora",
+        "Paragon_C6B43_Fatigue",
+        "Paragon_C6B43_Flora",
+        "Paragon_C6B43_Green",
+        "Paragon_C6B43_Navy",
+        "Paragon_C6B43_WL",
+        "Paragon_C6B43_White"
+      ]
+    }
+  ]
+}

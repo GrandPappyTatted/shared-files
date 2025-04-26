@@ -1,0 +1,26 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Paragon_back",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_BackPouch_Black",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_BackPouch_Blue",
+        "Paragon_BackPouch_Desert",
+        "Paragon_BackPouch_Green",
+        "Paragon_BackPouch_White"
+      ]
+    }
+  ]
+}

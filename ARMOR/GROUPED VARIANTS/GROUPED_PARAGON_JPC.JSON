@@ -1,0 +1,30 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_JP",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_JPC_Black",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_JPC_Black_WL",
+        "Paragon_JPC_Blue",
+        "Paragon_JPC_Desert",
+        "Paragon_JPC_Fatigue",
+        "Paragon_JPC_Green",
+        "Paragon_JPC_Navy",
+        "Paragon_JPC_WL",
+        "Paragon_JPC_White"
+      ]
+    }
+  ]
+}

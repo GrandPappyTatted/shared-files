@@ -1,0 +1,69 @@
+{
+  "m_Version": 12,
+  "DisplayName": "PARAGON_BODY",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Paragon_BodyBelt_Black",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Paragon_BodyBelt_Blue",
+        "Paragon_BodyBelt_Desert",
+        "Paragon_BodyBelt_Green"
+      ]
+    },
+    {
+      "ClassName": "Paragon_BodyBelt_Black_WL",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_BodyBelt_Decimation",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_BodyBelt_Fatigue",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Paragon_BodyBelt_Navy",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": -1,
+      "MinStockThreshold": -1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

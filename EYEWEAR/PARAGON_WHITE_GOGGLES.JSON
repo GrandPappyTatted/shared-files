@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_WHITE",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_White_Goggles_DBlue",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_White_Goggles_Green",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_White_Goggles_LBlue",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_White_Goggles_Pink",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

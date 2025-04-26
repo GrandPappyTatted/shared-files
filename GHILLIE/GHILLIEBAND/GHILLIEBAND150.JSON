@@ -1,0 +1,186 @@
+{
+    "m_Version": 12,
+    "DisplayName": "150",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "GB_150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandBlack150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandBlackWL150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandBrown150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandDigiBlue150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandDigitalFlora150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandFatigue150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandFlora150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandGrass150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandGreen150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandGrey150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandKush150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandSmoke150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandSnow150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandWL150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandWhite150",
+            "MaxPriceThreshold": 65000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

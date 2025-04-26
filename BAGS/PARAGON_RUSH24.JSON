@@ -1,0 +1,54 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PARAGON_RUS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "Paragon_Rush_24_Bag_Black",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Rush_24_Bag_Blue",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Rush_24_Bag_Desert",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Paragon_Rush_24_Bag_Green",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 35000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

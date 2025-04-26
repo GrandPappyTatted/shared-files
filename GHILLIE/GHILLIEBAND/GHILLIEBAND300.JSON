@@ -1,0 +1,186 @@
+{
+    "m_Version": 12,
+    "DisplayName": "300",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "GB_300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandBlack300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandBlackWL300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandBrown300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandDigiBlue300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandDigitalFlora300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandFatigue300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandFlora300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandGrass300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandGreen300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandGrey300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandKush300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandSmoke300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandSnow300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandWL300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GhilliebandWhite300",
+            "MaxPriceThreshold": 100000,
+            "MinPriceThreshold": 100000,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": -1,
+            "MinStockThreshold": -1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
