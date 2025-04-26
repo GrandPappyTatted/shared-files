@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<!-- First Pot -->
+	 <type name="NamantH_Apple_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Honey_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Marmalade_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Peach_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Pear_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Plum_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Potato_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="NamantH_Rice_Pot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<!-- Sugar Pot -->
+	<type name="NamantH_Apple_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Honey_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Marmalade_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Peach_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Pear_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Plum_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Potato_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Rice_SugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<!-- Mash Pot -->
+	<type name="NamantH_Apple_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Honey_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Marmalade_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Peach_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Pear_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Plum_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Potato_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Rice_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<!-- Moonshine Bottles -->
+	<type name="NamantH_Apple_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Honey_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Marmalade_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Peach_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Pear_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Plum_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Potato_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="NamantH_Rice_Moonshine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+
+</types>

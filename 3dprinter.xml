@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Project3DBench_Kit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Battery">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Bench">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_FilamentHolder">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Blue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Gold">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_LightBlue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Orange">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Red">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Silver">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Violet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Filament_Yellow">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Kit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_Printer">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_USB_01">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_USB_02">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_USB_03">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_USB_04">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+	<type name="Project3DPrinter_USB_05">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	</type>
+</types>

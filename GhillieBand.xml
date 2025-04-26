@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- Ghillie Armbands no slots -->
+    <type name="GhilliebandWhite">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBlack">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGreen">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBrown">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGrass">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGrey">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandKush">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandSmoke">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandSnow">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandDigitalFlora">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandFlora">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandFatigue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWL">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandDigiBlue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBlackWL">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+<!-- Ghillie Armbands 150 slots no attachments -->    
+    <type name="GhilliebandWhite150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBlack150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGreen150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBrown150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGrass150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGrey150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandKush150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandSmoke150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandSnow150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandDigitalFlora150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandFlora150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandFatigue150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWL150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandDigiBlue150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBlackWL150">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+
+<!-- Ghillie Armbands 300 slots with attachments -->    
+    <type name="GhilliebandWhite300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBlack300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGreen300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBrown300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGrass300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandGrey300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandKush300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandSmoke300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandSnow300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandDigitalFlora300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandFlora300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandFatigue300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWL300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandDigiBlue300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandBlackWL300">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier4" />
+        <usage name="Military" />
+    </type>
+    
+<!-- Ghillie Gun Wraps -->    
+    <type name="GhilliebandWrapWhite">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapBlack">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapGreen">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapBrown">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapGrass">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapGrey">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapKush">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapSmoke">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapSnow">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapDigitalFlora">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapFlora">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapFatigue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapWL">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapDigiBlue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandWrapBlackWL">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+
+<!-- Ghillie Hoods -->    
+    <type name="GhilliebandHoodWhite">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodBlack">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodGreen">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodBrown">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodGrass">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodGrey">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodKush">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodSmoke">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodSnow">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodDigitalFlora">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodFlora">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodFatigue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodWL">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodDigiBlue">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+    <type name="GhilliebandHoodBlackWL">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <restock>1800</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="clothes" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <usage name="Military" />
+    </type>
+</types>

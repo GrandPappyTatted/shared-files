@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types>
+	 <type name="TTD_Sugar">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>500</quantmin>
+        <quantmax>1000</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+       <usage name="School"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+       <usage name="Coast"/>
+    </type>
+   <type name="TTD_Kit_MoonShineStill">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+       <usage name="School"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+       <usage name="Coast"/>
+    </type>
+	 <type name="TTD_Yeast">
+        <nominal>10</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>50</quantmin>
+        <quantmax>100</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <tag name="shelves"/>
+        <usage name="Village"/>
+       <usage name="School"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+       <usage name="Coast"/>
+    </type>
+	 <type name="TTD_PumpkinPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="TTD_PumpkinSugarPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="TTD_Material_MashPot">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="TTD_MoonShineStill">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="TTD_Kit_MoonShineStill">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	<type name="TTD_Pumpkin_MoonShine">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+	 <type name="TTD_Propane_Canister">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>3000</quantmin>
+        <quantmax>3000</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+       <usage name="School"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+       <usage name="Coast"/>
+    </type>
+    <type name="TTD_Propane_Hose">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>1</quantmin>
+        <quantmax>1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="floor"/>
+        <usage name="Industrial"/>
+      <usage name="School"/>
+		<usage name="Town"/>
+        <usage name="Village"/>
+      <usage name="Coast"/>
+    </type>
+</types>

@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+  <type name="Stim_Blood">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Flu">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Health">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Hydration">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type><type name="Stim_Immunity">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Infection">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Nutrition">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Shock">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Toxic">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  
+  
+  
+  
+  <type name="Stim_Fractures">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_Salmonella">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="Stim_FoodPoisoning">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="StimArmbandCase_Leather">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  
+  
+  <type name="Stim_Kuru">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="FAK">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="iFAK_Green">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+  <type name="iFAK_Tan">
+    <nominal>0</nominal>
+    <lifetime>3600</lifetime>
+    <restock>0</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" />
+    <category name="clothes"/>
+    <tag name="floor" />
+    <tag name="shelves" />
+    <tag name="ground" />
+	<value name="Tier3"/>
+    <value name="Tier4" />
+  </type>
+</types>
