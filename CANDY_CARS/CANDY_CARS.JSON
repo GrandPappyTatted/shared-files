@@ -1,0 +1,289 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Decimation Motors",
+  "Icon": "Car 2",
+  "Color": "00FF8DFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Candy_AMGEPerfMansory",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_AMGEPerfMansory_Blue",
+        "Candy_AMGEPerfMansory_Forged",
+        "Candy_AMGEPerfMansory_Grey",
+        "Candy_AMGEPerfMansory_Red",
+        "Candy_AMGEPerfMansory_White"
+      ]
+    },
+    {
+      "ClassName": "Candy_ApolloEVO",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_ApolloEVO_Blue",
+        "Candy_ApolloEVO_Orange",
+        "Candy_ApolloEVO_Red",
+        "Candy_ApolloEVO_White",
+        "Candy_ApolloEVO_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_Bentayga",
+      "MaxPriceThreshold": 3200000,
+      "MinPriceThreshold": 3200000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_Bentayga_Blue",
+        "Candy_Bentayga_Brown",
+        "Candy_Bentayga_Grey",
+        "Candy_Bentayga_Pink",
+        "Candy_Bentayga_Red",
+        "Candy_Bentayga_White",
+        "Candy_Bentayga_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_BroncoMonster",
+      "MaxPriceThreshold": 4000000,
+      "MinPriceThreshold": 4000000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_BroncoMonster_Blue",
+        "Candy_BroncoMonster_Brown",
+        "Candy_BroncoMonster_Forged",
+        "Candy_BroncoMonster_Grey",
+        "Candy_BroncoMonster_Red",
+        "Candy_BroncoMonster_Rust",
+        "Candy_BroncoMonster_White"
+      ]
+    },
+    {
+      "ClassName": "Candy_E63Brabus",
+      "MaxPriceThreshold": 2300000,
+      "MinPriceThreshold": 2300000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_E63Brabus_Blue",
+        "Candy_E63Brabus_Brown",
+        "Candy_E63Brabus_Forged",
+        "Candy_E63Brabus_Grey",
+        "Candy_E63Brabus_Matte",
+        "Candy_E63Brabus_Police",
+        "Candy_E63Brabus_Red",
+        "Candy_E63Brabus_Red_Matte",
+        "Candy_E63Brabus_White"
+      ]
+    },
+    {
+      "ClassName": "Candy_FerrMans",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_FerrMans_Blue",
+        "Candy_FerrMans_Purple",
+        "Candy_FerrMans_Red",
+        "Candy_FerrMans_White"
+      ]
+    },
+    {
+      "ClassName": "Candy_G63Brabus",
+      "MaxPriceThreshold": 4200000,
+      "MinPriceThreshold": 4200000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_G63Brabus_Blue",
+        "Candy_G63Brabus_Brown",
+        "Candy_G63Brabus_Forged",
+        "Candy_G63Brabus_Grey",
+        "Candy_G63Brabus_Pink",
+        "Candy_G63Brabus_Red",
+        "Candy_G63Brabus_Rust",
+        "Candy_G63Brabus_Rust_Black",
+        "Candy_G63Brabus_Rust_Pink",
+        "Candy_G63Brabus_Rust_White",
+        "Candy_G63Brabus_White",
+        "Candy_G63Brabus_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_Hellcat",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_Hellcat_Black",
+        "Candy_Hellcat_Blue",
+        "Candy_Hellcat_Brown",
+        "Candy_Hellcat_Grey",
+        "Candy_Hellcat_Orange",
+        "Candy_Hellcat_Pink",
+        "Candy_Hellcat_Police",
+        "Candy_Hellcat_Red",
+        "Candy_Hellcat_Sticker",
+        "Candy_Hellcat_White",
+        "Candy_Hellcat_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_HuracanLW",
+      "MaxPriceThreshold": 3000000,
+      "MinPriceThreshold": 3000000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_HuracanLW_Black",
+        "Candy_HuracanLW_Blue",
+        "Candy_HuracanLW_Grey",
+        "Candy_HuracanLW_Police",
+        "Candy_HuracanLW_Red",
+        "Candy_HuracanLW_White",
+        "Candy_HuracanLW_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_Mark2",
+      "MaxPriceThreshold": 4200000,
+      "MinPriceThreshold": 4200000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_Mark2_Blue",
+        "Candy_Mark2_Body",
+        "Candy_Mark2_Brown",
+        "Candy_Mark2_Grey",
+        "Candy_Mark2_Pink",
+        "Candy_Mark2_Red",
+        "Candy_Mark2_White",
+        "Candy_Mark2_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_McLarenSenna",
+      "MaxPriceThreshold": 23000000,
+      "MinPriceThreshold": 23000000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_McLarenSenna_Blue",
+        "Candy_McLarenSenna_Brown",
+        "Candy_McLarenSenna_Forged",
+        "Candy_McLarenSenna_Grey",
+        "Candy_McLarenSenna_Orange",
+        "Candy_McLarenSenna_Pink",
+        "Candy_McLarenSenna_Red",
+        "Candy_McLarenSenna_Sticker",
+        "Candy_McLarenSenna_White",
+        "Candy_McLarenSenna_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_R34Hycade",
+      "MaxPriceThreshold": 2500000,
+      "MinPriceThreshold": 2500000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_R34Hycade_Black",
+        "Candy_R34Hycade_Blue",
+        "Candy_R34Hycade_Brown",
+        "Candy_R34Hycade_Grey",
+        "Candy_R34Hycade_Orange",
+        "Candy_R34Hycade_Pink",
+        "Candy_R34Hycade_Red",
+        "Candy_R34Hycade_Sticker",
+        "Candy_R34Hycade_White",
+        "Candy_R34Hycade_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_Ram",
+      "MaxPriceThreshold": 1800000,
+      "MinPriceThreshold": 1800000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_Ram_Blue",
+        "Candy_Ram_Brown",
+        "Candy_Ram_Forged",
+        "Candy_Ram_Grey",
+        "Candy_Ram_Pink",
+        "Candy_Ram_Red",
+        "Candy_Ram_Rust",
+        "Candy_Ram_White",
+        "Candy_Ram_Yellow"
+      ]
+    },
+    {
+      "ClassName": "Candy_X7Khann",
+      "MaxPriceThreshold": 2900000,
+      "MinPriceThreshold": 2900000,
+      "SellPricePercent": -1.0,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Candy_X7Khann_Blue",
+        "Candy_X7Khann_Brown",
+        "Candy_X7Khann_Grey",
+        "Candy_X7Khann_Pink",
+        "Candy_X7Khann_Red",
+        "Candy_X7Khann_White",
+        "Candy_X7Khann_Yellow"
+      ]
+    }
+  ]
+}
